@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/executable.dir/src/source.cpp.o  -o executable 
